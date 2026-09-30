@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MM01",
+    "name": "Aanya Sharma",
+    "area": "Campus Gate",
+    "is_available": true,
+    "assistance_type": "Accompaniment/support",
+    "phone_demo": "98765-XXXX1",
+    "help_count": 8
+  },
+  {
+    "id": "MM02",
+    "name": "Meera Patel",
+    "area": "Hostel Road",
+    "is_available": true,
+    "assistance_type": "Emotional support",
+    "phone_demo": "98765-XXXX2",
+    "help_count": 12
+  },
+  {
+    "id": "MM03",
+    "name": "Riya Gupta",
+    "area": "Main Road",
+    "is_available": false,
+    "assistance_type": "Navigation help",
+    "phone_demo": "98765-XXXX3",
+    "help_count": 5
+  },
+  {
+    "id": "MM04",
+    "name": "Sana Khan",
+    "area": "Market Area",
+    "is_available": true,
+    "assistance_type": "Safe-place guidance",
+    "phone_demo": "98765-XXXX4",
+    "help_count": 10
+  },
+  {
+    "id": "MM05",
+    "name": "Priya Nair",
+    "area": "College Road",
+    "is_available": true,
+    "assistance_type": "General assistance",
+    "phone_demo": "98765-XXXX5",
+    "help_count": 6
+  },
+  {
+    "id": "MM06",
+    "name": "Ananya Joshi",
+    "area": "Campus Gate",
+    "is_available": true,
+    "assistance_type": "Navigation help",
+    "phone_demo": "98765-XXXX6",
+    "help_count": 4
+  }
+]

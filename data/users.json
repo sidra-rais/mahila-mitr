@@ -1,0 +1,23 @@
+[
+  {
+    "id": "U01",
+    "name": "Sidra",
+    "area": "Hostel Road",
+    "role": "User",
+    "registered_date": "2026-08-15"
+  },
+  {
+    "id": "U02",
+    "name": "Kavya",
+    "area": "Campus Gate",
+    "role": "User",
+    "registered_date": "2026-08-20"
+  },
+  {
+    "id": "U03",
+    "name": "Tanvi",
+    "area": "Market Area",
+    "role": "User",
+    "registered_date": "2026-09-01"
+  }
+]

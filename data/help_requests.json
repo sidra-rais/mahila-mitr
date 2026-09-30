@@ -1,0 +1,74 @@
+[
+  {
+    "id": "REQ101",
+    "user_name": "Sidra",
+    "situation": "Feeling unsafe",
+    "area": "Hostel Road",
+    "urgency": "High",
+    "assistance_needed": "Accompaniment/support",
+    "description": "Streetlights are completely off and someone seems to be walking behind.",
+    "status": "Resolved",
+    "assigned_mitr": "Meera Patel",
+    "created_at": "2026-09-27 21:15"
+  },
+  {
+    "id": "REQ102",
+    "user_name": "Kavya",
+    "situation": "Stranded",
+    "area": "Campus Gate",
+    "urgency": "High",
+    "assistance_needed": "Navigation help",
+    "description": "Auto dropped at wrong gate, battery low, not sure of safest walking route.",
+    "status": "Resolved",
+    "assigned_mitr": "Aanya Sharma",
+    "created_at": "2026-09-28 20:30"
+  },
+  {
+    "id": "REQ103",
+    "user_name": "Tanvi",
+    "situation": "Need a safe public place",
+    "area": "Market Area",
+    "urgency": "Medium",
+    "assistance_needed": "Safe-place guidance",
+    "description": "Waiting for cab in crowded market, looking for a verified open women-friendly cafe.",
+    "status": "Resolved",
+    "assigned_mitr": "Sana Khan",
+    "created_at": "2026-09-29 19:40"
+  },
+  {
+    "id": "REQ104",
+    "user_name": "Pooja",
+    "situation": "Feeling unsafe",
+    "area": "Main Road",
+    "urgency": "Medium",
+    "assistance_needed": "Emotional support",
+    "description": "Feeling uneasy walking alone near isolated bus stop.",
+    "status": "Pending",
+    "assigned_mitr": "None",
+    "created_at": "2026-09-30 18:10"
+  },
+  {
+    "id": "REQ105",
+    "user_name": "Nisha",
+    "situation": "Need someone to accompany/support",
+    "area": "College Road",
+    "urgency": "Low",
+    "assistance_needed": "General assistance",
+    "description": "Need to collect study material late from lab annex building.",
+    "status": "Pending",
+    "assigned_mitr": "None",
+    "created_at": "2026-09-30 19:00"
+  },
+  {
+    "id": "REQ106",
+    "user_name": "PARUL",
+    "situation": "Need someone to accompany/support",
+    "area": "VIT ROAD",
+    "urgency": "Medium",
+    "assistance_needed": "Navigation help",
+    "description": "Need someone to assist from vit road till my campus gate as its night",
+    "status": "Resolved",
+    "assigned_mitr": "Ananya Joshi",
+    "created_at": "2026-09-30 18:42"
+  }
+]

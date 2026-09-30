@@ -1,0 +1,72 @@
+[
+  {
+    "id": "REP201",
+    "area": "Campus Gate",
+    "category": "Poor lighting",
+    "severity": "High",
+    "description": "All three lampposts on the outer perimeter pathway are non-functional.",
+    "date_time": "2026-09-25 21:00",
+    "confirmations": 8,
+    "status": "Verified"
+  },
+  {
+    "id": "REP202",
+    "area": "Campus Gate",
+    "category": "Harassment concern",
+    "severity": "High",
+    "description": "Repeated catcalling near tea stall opposite the main campus gate in evenings.",
+    "date_time": "2026-09-26 19:30",
+    "confirmations": 6,
+    "status": "Verified"
+  },
+  {
+    "id": "REP203",
+    "area": "Hostel Road",
+    "category": "Poor lighting",
+    "severity": "Medium",
+    "description": "Dim yellow lights between block C and block D curve.",
+    "date_time": "2026-09-27 20:15",
+    "confirmations": 4,
+    "status": "Verified"
+  },
+  {
+    "id": "REP204",
+    "area": "Hostel Road",
+    "category": "Unsafe road/path",
+    "severity": "Medium",
+    "description": "Open construction ditch without warning barricades on the footpath.",
+    "date_time": "2026-09-28 18:00",
+    "confirmations": 3,
+    "status": "Reported"
+  },
+  {
+    "id": "REP205",
+    "area": "Main Road",
+    "category": "Suspicious activity",
+    "severity": "High",
+    "description": "Unregistered bike riders loitering near the empty bus shelter at night.",
+    "date_time": "2026-09-29 22:00",
+    "confirmations": 5,
+    "status": "Verified"
+  },
+  {
+    "id": "REP206",
+    "area": "Market Area",
+    "category": "Isolated area",
+    "severity": "Low",
+    "description": "Rear alley behind parking lot gets deserted right after 8 PM.",
+    "date_time": "2026-09-29 20:45",
+    "confirmations": 2,
+    "status": "Reported"
+  },
+  {
+    "id": "REP207",
+    "area": "College Road",
+    "category": "Unsafe road/path",
+    "severity": "Low",
+    "description": "Tree branch blocking visibility near pedestrian zebra crossing.",
+    "date_time": "2026-09-30 08:30",
+    "confirmations": 1,
+    "status": "Reported"
+  }
+]
